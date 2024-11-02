@@ -1,0 +1,1 @@
+print("hi this is kushal bhatti + entry string")
